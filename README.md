@@ -12,7 +12,7 @@ Here's a list of the solved problems. Click on the problem name to navigate to i
 
 ## Repository Structure
 
-dsa/
+```dsa/
 ├── count-odd-even/
 │   └── ... (solution files and a README.md for that problem)
 ├── find-average/
@@ -20,7 +20,7 @@ dsa/
 ├── digit-to-words/
 │   └── ... (solution files and a README.md for that problem)
 └── README.md (this file)
-
+```
 ## How to Explore
 
 Each problem has its own dedicated folder within this repository. Inside each folder, you will typically find:
