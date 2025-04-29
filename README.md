@@ -9,6 +9,7 @@ Here's a list of the solved problems. Click on the problem name to navigate to i
 - [Count Odd and Even](./count-odd-even)
 - [Find Average](./find-average)
 - [Digit to Word](./digit-to-words)
+- [Divisible by 6](./divisible-by-6)
 
 ## Repository Structure
 
