@@ -16,5 +16,5 @@ Output : No
 ### Since input number may be very large, we cannot use n % 6 to check if a number is divisible by 6 or not, especially in languages like C/C++. The idea is based on following fact. 
 
 **A number is divisible by 6 it's divisible by 2 and 3.**
-*a)  A number is divisible by 2 if its last digit is divisible by 2.
-*b)  A number is divisible by 3 if sum of digits is divisible by 3.
+* a)  A number is divisible by 2 if its last digit is divisible by 2.
+* b)  A number is divisible by 3 if sum of digits is divisible by 3.
