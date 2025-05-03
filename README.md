@@ -10,6 +10,7 @@ Here's a list of the solved problems. Click on the problem name to navigate to i
 - [Find Average](./find-average)
 - [Digit to Word](./digit-to-words)
 - [Divisible by 6](./divisible-by-6)
+- [Check Palindrome](./check-palindrome)
 
 ## Repository Structure
 
