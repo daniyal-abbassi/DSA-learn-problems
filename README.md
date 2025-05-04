@@ -11,6 +11,7 @@ Here's a list of the solved problems. Click on the problem name to navigate to i
 - [Digit to Word](./digit-to-words)
 - [Divisible by 6](./divisible-by-6)
 - [Check Palindrome](./check-palindrome)
+- [Count vowels](./count-vowels)
 
 ## Repository Structure
 
