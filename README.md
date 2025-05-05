@@ -13,6 +13,7 @@ Here's a list of the solved problems. Click on the problem name to navigate to i
 - [Check Palindrome](./check-palindrome)
 - [Count vowels](./count-vowels)
 - [Perfect Square](./perfect-square)
+- [Find max in matrix](./max-in-matrix)
 
 ## Repository Structure
 
