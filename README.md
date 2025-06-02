@@ -15,7 +15,7 @@ Here's a list of the solved problems. Click on the problem name to navigate to i
 - [Perfect Square](./perfect-square)
 - [Find max in matrix](./max-in-matrix)
 - [Sum Of Digits](./sum-digits)
-
+- [Two sums](./two-sums)
 ## Repository Structure
 
 ```dsa/
