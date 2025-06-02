@@ -22,7 +22,7 @@ Example 3:
 Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
-
+### I used three Approaches
 - Brute force -->O(n2)
 simply check if ith element is making a pair with any of the other element on
 the right side
