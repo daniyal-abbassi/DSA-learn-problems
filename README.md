@@ -16,6 +16,7 @@ Here's a list of the solved problems. Click on the problem name to navigate to i
 - [Find max in matrix](./max-in-matrix)
 - [Sum Of Digits](./sum-digits)
 - [Two sums](./two-sums)
+- [Palindrome Number](./Palindrome-Number)
 ## Repository Structure
 
 ```dsa/
