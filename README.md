@@ -17,6 +17,7 @@ Here's a list of the solved problems. Click on the problem name to navigate to i
 - [Sum Of Digits](./sum-digits)
 - [Two sums](./two-sums)
 - [Palindrome Number](./Palindrome-Number)
+- [Roman To Integer](./roman-to-integer)
 ## Repository Structure
 
 ```dsa/
