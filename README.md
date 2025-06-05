@@ -18,6 +18,7 @@ Here's a list of the solved problems. Click on the problem name to navigate to i
 - [Two sums](./two-sums)
 - [Palindrome Number](./Palindrome-Number)
 - [Roman To Integer](./roman-to-integer)
+- [Difference of Squares](./difference-squares)
 ## Repository Structure
 
 ```dsa/
