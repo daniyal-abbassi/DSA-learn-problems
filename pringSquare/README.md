@@ -1,4 +1,4 @@
-## given an integer ```n```, pring a square wiht width and height of ```n```.
+## given an integer ```n```, print a square with width and height of ```n```.
 
 Example: 
 
