@@ -20,6 +20,7 @@ Here's a list of the solved problems. Click on the problem name to navigate to i
 - [Roman To Integer](./roman-to-integer)
 - [Difference of Squares](./difference-squares)
 - [FizzBuzz](./fizz-buzz)
+- [Print Square](./pringSquare)
 ## Repository Structure
 
 ```dsa/
