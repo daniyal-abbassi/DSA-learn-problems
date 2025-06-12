@@ -3,6 +3,8 @@
 
 const numbers = [10, 1, 2, 7, 6, 1, 5];
 const target = 8;
+
+//STACK APPROACH
 const findCombinations = (candidates, target) => {
     //sort the array
     candidates.sort((a, b) => a - b)
@@ -34,18 +36,31 @@ const findCombinations = (candidates, target) => {
         for (let i = startIndex; i < candidates.length; i++) {
 
             //check for duplicates
-            
+            if (i > startIndex && candidates[i] === candidates[i - 1]) {
+                continue
+            }
             //get the current number
-
+            const curNumber = candidates[i];
             //check current number if bigger then remaining
-
+            if (remaining - curNumber < 0) {
+                break;
+            }
             //add new stack to our main stack
+            stack.push({
+                combo: [...combo, curNumber],
+                remaining: remaining - curNumber,
+                startIndex: i + 1
+            })
         }
     }
-
+    if (results.length === 0) {
+        console.log("0");
+    } else {
+        results.forEach(combination => {
+            console.log(combination.join(' '));
+        });
+    }
 }
 
+findCombinations(numbers,target)
 
-
-
-//STACK APPROACH
